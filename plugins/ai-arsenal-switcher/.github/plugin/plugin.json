@@ -1,0 +1,24 @@
+{
+  "name": "ai-arsenal-switcher",
+  "description": "Manage and switch between multiple AI providers (Gemini, OpenAI, Claude) with automatic fallback, load balancing, and cost optimization. Build resilient AI applications that never go down.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Awesome Copilot Community"
+  },
+  "repository": "https://github.com/github/awesome-copilot",
+  "license": "MIT",
+  "keywords": [
+    "gemini",
+    "openai",
+    "claude",
+    "multi-provider",
+    "fallback",
+    "ai-management",
+    "cost-optimization"
+  ],
+  "skills": [
+    "./skills/ai-provider-management/",
+    "./skills/gemini-integration/",
+    "./skills/vertex-ai/"
+  ]
+}

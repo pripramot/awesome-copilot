@@ -1,0 +1,27 @@
+{
+  "name": "thai-developer-toolkit",
+  "description": "A comprehensive toolkit for Thai developers covering Thai text handling, business logic patterns, localization, Docker containerization, Supabase backend integration, Flutter mobile UI, and MCP server development.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Awesome Copilot Community"
+  },
+  "repository": "https://github.com/github/awesome-copilot",
+  "license": "MIT",
+  "keywords": [
+    "thai",
+    "docker",
+    "supabase",
+    "flutter",
+    "mcp",
+    "thai-developer",
+    "localization",
+    "backend"
+  ],
+  "skills": [
+    "./skills/thai-development/",
+    "./skills/docker-mastery/",
+    "./skills/supabase-integration/",
+    "./skills/flutter-ui-expert/",
+    "./skills/mcp-development/"
+  ]
+}

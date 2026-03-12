@@ -1,0 +1,25 @@
+{
+  "name": "nangnoy-learning-system",
+  "description": "A self-improving Thai AI assistant system featuring the Nangnoy Learning Agent with self-learning capabilities, feedback loops, performance tracking, and deep Thai cultural context understanding.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Awesome Copilot Community"
+  },
+  "repository": "https://github.com/github/awesome-copilot",
+  "license": "MIT",
+  "keywords": [
+    "thai",
+    "learning",
+    "self-improving",
+    "ai-agent",
+    "feedback-loop",
+    "thai-language"
+  ],
+  "agents": [
+    "./agents/nangnoy-learning-agent.md"
+  ],
+  "skills": [
+    "./skills/learning-systems/",
+    "./skills/thai-development/"
+  ]
+}
